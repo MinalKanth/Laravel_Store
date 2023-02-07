@@ -1,0 +1,116 @@
+
+
+links add
+<link href="../link/bootstrap.min.css" rel="stylesheet">
+<link href="../link/bootstrap-icons.css" rel="stylesheet">
+<script type="text/javascript" src="../link/jquery.min_.js"></script>
+<script type="text/javascript" src="../link/jquery.dataTables.min_.js"></script>
+
+link index page
+<link href="../link/style.min.css" rel="stylesheet"><!--only for indexpage-->
+<script src="../link/jquery.min_.js"></script>
+<script src="../link/perfect-scrollbar.jquery.min.js"></script>
+<script src="../link/datatables.min.js"></script>
+<script src="../link/datatable-basic.init.js"></script>
+
+profile page
+<link href="../link/style.min.css" rel="stylesheet">
+<link href="../link/style.css" rel="stylesheet">
+<script src="../link/perfect-scrollbar.jquery.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">  -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</script>
+
+
+form-group
+form-control
+form-check-input
+
+
+
+
+
+
+
+
+
+only 3 links
+<script type="text/javascript" src="jquery.min_.js"></script>
+    <script type="text/javascript" src="jquery.dataTables.min_.js"></script>
+    <link href="../simple/dist/css/style.min.css" rel="stylesheet">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new 
+
+
+<link href="assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.css" rel="stylesheet">
+<link href="dist/css/style.min.css" rel="stylesheet">
+
+<script type="text/javascript" src="jquery.min_.js"></script>
+<script src="assets/libs/jquery/dist/jquery.min.js"></script>
+<script src="assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js"></script>
+
+<script src="assets/extra-libs/DataTables/datatables.min.js"></script>
+<script src="dist/js/pages/datatable/datatable-basic.init.js"></script>
+
+
+<div class="row">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table id="zero_config" class="table table-striped table-bordered">
+                                <thead>
+                                    <tr>
+
+
+
+
+
+
+
+
+
+
+datatables
+<link href="../link/dist/css/style.min.css" rel="stylesheet">
+
+
+        <script src="../link/assets/libs/jquery/dist/jquery.min.js"></script>
+      
+        <script src="../link/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js"></script>
+        
+        <script src="../link/dist/js/custom.min.js"></script>
+        
+        <script src="../link/assets/extra-libs/DataTables/datatables.min.js"></script>
+        <script src="../link/dist/js/pages/datatable/datatable-basic.init.js"></script>
